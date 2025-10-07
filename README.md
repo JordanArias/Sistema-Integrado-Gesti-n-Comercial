@@ -1,7 +1,6 @@
 # Sistema Integrado de Gestión Comercial
 
-Aplicación web completa para gestionar las operaciones diarias de un negocio.  
-Incluye módulos de usuarios y roles, productos (simples y compuestos, con categorías, opciones y complementos), ventas con registro de pedidos, caja con control en dos divisas, cocina, inventario, clientes y reportes detallados que apoyan la toma de decisiones.  
+Aplicación web para gestionar las operaciones diarias de un negocio. Incluye módulos de usuarios y roles, productos (únicos, compuestos, con categorías, opciones y complementos), ventas con registro de pedidos y selección de productos, caja con movimientos de ajustes y reportes detallados en dos divisas, cocina para organizar y preparar pedidos, inventario para controlar movimientos de insumos y generar reportes detallados, clientes para gestionar información de contacto, y reportes de ventas que apoyan la toma de decisiones.  
 
 Este proyecto está dividido en **Frontend y Backend**, cada uno en su propio repositorio.
 
