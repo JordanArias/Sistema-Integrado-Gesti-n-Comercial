@@ -45,7 +45,7 @@ Este proyecto está dividido en **Frontend y Backend**, cada uno en su propio re
 ---
 
 ## 🖥️ Demo
-🔗 [Ver Demo](https://jordandeveloper.netlify.app/sistema-de-ventas/)
+🔗 [Ver Demo](https://youtu.be/zFGULdaYSeM)
 
 ---
 
